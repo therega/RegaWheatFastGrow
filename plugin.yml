@@ -1,0 +1,12 @@
+name: RegaWheatFastGrow
+main: fun.rega.RegaWheatFastGrow.Main
+version: 1.0.0
+author: TheRega
+website: (vk.com/therega)
+depend: [WorldGuard]
+
+
+commands:
+  regawheatfastgrow:
+    description: Reload plugin config
+    aliases: [wfg]
